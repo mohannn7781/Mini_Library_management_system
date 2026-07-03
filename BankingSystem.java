@@ -157,7 +157,7 @@ class Bank{
 
 
 
-public class Main {
+public class BankingSystem {
     public static void main(String[] args) {
         // creating bank
         Bank bank=new Bank();
